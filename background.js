@@ -1,6 +1,6 @@
 function resetDefaultSuggestion() {
   chrome.omnibox.setDefaultSuggestion({
-    description: 'Green Dragon: Search Green Dragon for %s'
+    description: '%s'
   });
 }
 
