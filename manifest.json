@@ -1,9 +1,9 @@
 {
   "name": "Green Dragon Search",
   "version": "1.0",
-  "description": "A free search engine. Type 'gfire' into the omnibox and then your search to preform a Green Dragon Search.  http://greendragontech.tk/",
+  "description": "A search engine extension. Type '[KEYWORD HERE]' into the omnibox and then your search to preform a search.  [SEARCH ENGINE URL HERE]",
   "omnibox": {
-	"keyword": "gfire"
+	"keyword": "[KEYWORD HERE]"
   },
   "icons": {
     "96": "icon.png"
