@@ -20,5 +20,5 @@ function navigate(url) {
 }
 
 chrome.omnibox.onInputEntered.addListener(function(text) {
-  navigate("http://greendragontech.tk/Green-Dragon-Search-Beta/#q=" + text);
+  navigate("[INSERT SEARCH URL]/#q=" + text);
 });
