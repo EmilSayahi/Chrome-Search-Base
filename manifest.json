@@ -1,5 +1,5 @@
 {
-  "name": "Green Dragon Search",
+  "name": "Generic Search",
   "version": "1.0",
   "description": "A search engine extension. Type '[KEYWORD HERE]' into the omnibox and then your search to preform a search.  [SEARCH ENGINE URL HERE]",
   "omnibox": {
